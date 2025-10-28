@@ -10,7 +10,11 @@ The integration of Artificial Intelligence into software development has precipi
 
 #### **Defining the Agentic Paradigm**
 
-An agentic system is not merely a passive code generator responding to single-shot commands, a practice sometimes referred to as "vibe coding".1 Instead, it is an active, intelligent participant in the development lifecycle, characterized by two key traits: **autonomy** and **goal-directed behavior**.2 An AI agent can operate independently to make decisions based on available data and its environment, working towards a specified objective without requiring constant, step-by-step human intervention.2 This autonomy allows it to analyze a problem, formulate a strategy, execute actions, and adapt its approach based on the outcomes it observes.
+An agentic system is not merely a passive code generator responding to single-shot commands, a practice sometimes referred to as "vibe coding".
+
+1 Instead, it is an active, intelligent participant in the development lifecycle, characterized by two key traits: **autonomy** and **goal-directed behavior**.
+
+2 An AI agent can operate independently to make decisions based on available data and its environment, working towards a specified objective without requiring constant, step-by-step human intervention.2 This autonomy allows it to analyze a problem, formulate a strategy, execute actions, and adapt its approach based on the outcomes it observes.
 
 #### **The Core Agentic Loop**
 
